@@ -1,0 +1,15 @@
+.card{
+    background-color: #5555550d;
+    border: none;
+    font-family: 'Poppins';
+}
+
+.card-header{
+    border: none;
+    font-family: 'Poppins';
+
+}
+.query-line{
+    font-family: 'Poppins';
+    font-size: x-large;
+}
